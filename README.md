@@ -1,8 +1,7 @@
 # motors
 With this CLI Tool, Specific motors price list information is instantly retrieved by year. Motor Vehicle List information is printed on the screen by Parsing instantly from arabam.com. You can get different types of motors, with "-t 1, -t 2, -t 3" flags.<br><br>
 &#x1F34E;<I>This is Arabam.com crawler CLI. In every request, It parses Arabam.com. If Arabam.com doesn't response, this service can't work.</I>
-
-![CleanShot 2024-04-09 at 14 10 24](https://github.com/borakasmer/motors/assets/9459881/b57a681f-b718-46c4-8025-929ef8cd610b)<br>
+![CleanShot 2024-04-09 at 22 57 43](https://github.com/borakasmer/motors/assets/9459881/6e281b1a-6e49-46ce-8b23-5c8843829340) <br>
 
 <b>Flags:</b>
 <table><tr><td>🏍️:</td><td><I>motors</I></td></tr><tr><td></td><td><I>motors -t 2</T></td></tr></table>
