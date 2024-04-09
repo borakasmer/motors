@@ -3,7 +3,7 @@ package parser
 import (
 	"github.com/PuerkitoBio/goquery"
 	"github.com/borakasmer/motors/Model"
-	extension "github.com/borakasmer/motors/extension"
+	"github.com/borakasmer/motors/extension"
 	"log"
 	"net/http"
 	"time"
